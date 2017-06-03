@@ -6,4 +6,6 @@ YEP
 ===
 YEP is a proof of concept for a modular ERP written in go.
 
+NOTE: **Project YEP has been superseded by [Hexya ERP](https://github.com/hexya-erp)**
+
 See `/doc` directory
